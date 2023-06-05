@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#group {
+  margin-top: 25px;
+  margin-left: 25px;
+  padding: 15px 20px;
+  font-size: 20px;
+  border-radius: 7px;
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  font-size: 120px;
+  margin-top: 180px;
+}
+
+.top {
+  padding: 15px 20px;
+  margin-left: 6px;
+  border-radius: 7px;
+  background-color: white;
+  color: black;
+}
+
+body {
+  transition: 2s;
+}
+
+#icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#ic {
+  background-color: bisque;
+  padding: 15px 10px;
+}
+#ic i {
+  padding: 0 8px;
+  font-size: 20px;
+}/*# sourceMappingURL=Style.css.map */
